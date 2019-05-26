@@ -36,4 +36,4 @@ namespace HelloWorld
 ```
 
 ## 画像の挿入
-![植物の苗](https://github.com/himanago/github-pages-sample/blob/master/images/syokubutsu_nae.png)
+![植物の苗](images/syokubutsu_nae.png)
